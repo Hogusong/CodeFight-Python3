@@ -40,3 +40,4 @@ def firstDuplicate(a):
     return ans
 
 print(firstDuplicate([2, 3, 4, 3, 5, 2]))
+
